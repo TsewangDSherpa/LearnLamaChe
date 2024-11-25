@@ -89,8 +89,6 @@
 ## Wireframes
 
 ### Low-Fidelity Wireframes
-
-[Add picture of your hand-sketched wireframes in this section]  
 <img src="./WireframeGif.gif" width=600>
 
 ---
