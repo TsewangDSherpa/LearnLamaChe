@@ -89,7 +89,7 @@
 ## Wireframes
 
 ### Low-Fidelity Wireframes
-<img src="./WireframeGif.gif" width=600>
+<img src="./Wireframe.gif" width=600>
 
 ---
 
