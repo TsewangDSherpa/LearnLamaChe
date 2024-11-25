@@ -27,7 +27,7 @@
 
 **Required Features**
 
-1. Learn Tibetan alphabet using flashcards.
+1. Learn Tibetan alphabet and its grammar rules using flashcards and touch interface.
 2. Audio playback for correct pronunciation of each character.
 3. Gamified progress tracking with streaks and rewards.
 4. Push notifications for daily practice reminders.
