@@ -46,6 +46,7 @@
 - **Onboarding Screen**
 
   - Introduction to the app and its features.
+  - Login/Register -- Also continue as Guest
   - User chooses learning goals (e.g., writing, pronunciation, both).
 
 - **Home Screen**
@@ -56,6 +57,8 @@
 - **Lesson Screen**
 
   - Displays Tibetan characters with audio playback for pronunciation.
+  - Allow users to long press to go to detail page that includes more grammar rules about specific character.
+  - Allow users to navigate to other lessons.
   - Allows users to swipe through flashcards.
 
 - **Game Screen**
