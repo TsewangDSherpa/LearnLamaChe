@@ -26,6 +26,7 @@
 ### 1. User Features (Required and Optional)
 
 **Required Features**
+
 1. Learn Tibetan alphabet using flashcards.
 2. Audio playback for correct pronunciation of each character.
 3. Gamified progress tracking with streaks and rewards.
@@ -33,6 +34,7 @@
 5. Progress saved locally and synced across devices.
 
 **Optional Features**
+
 1. Interactive writing practice with stroke-order guidance.
 2. Social feature for competing with friends.
 3. Offline mode for lessons and practice.
@@ -42,18 +44,22 @@
 ### 2. Screen Archetypes
 
 - **Onboarding Screen**
+
   - Introduction to the app and its features.
   - User chooses learning goals (e.g., writing, pronunciation, both).
 
 - **Home Screen**
+
   - Overview of daily progress and streaks.
   - Quick access to lessons and flashcards.
 
 - **Lesson Screen**
+
   - Displays Tibetan characters with audio playback for pronunciation.
   - Allows users to swipe through flashcards.
 
 - **Game Screen**
+
   - Memory games and quizzes to test knowledge.
   - Timed challenges for gamified learning.
 
@@ -64,12 +70,14 @@
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
-* Home
-* Lessons
-* Games
-* Progress
+
+- Home
+- Lessons
+- Games
+- Progress
 
 **Flow Navigation** (Screen to Screen)
+
 - **Onboarding Screen**
   - → Home Screen
 - **Home Screen**
@@ -89,17 +97,21 @@
 ## Wireframes
 
 ### Low-Fidelity Wireframes
-<img src="./WireframeGif.gif" width=600>
+
+<img src="./wireframe.gif" width=600>
 
 ---
 
 ### [BONUS] Digital Wireframes & Mockups
 
+<img src="./BONUS_Image.png" width=600>
+
 ### [BONUS] Interactive Prototype
 
----
+## <img src="./BonusPrototype.gif" width=600>
 
 # Next Steps:
+
 - Design digital wireframes for core screens.
 - Build out the MVP features: flashcards, audio playback, progress tracking, and daily reminders.
 - Set up the GitHub repository and upload brainstorming.md and this milestone document.
